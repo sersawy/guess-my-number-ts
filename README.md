@@ -91,6 +91,12 @@ This project was fully developed as a learning exercise to improve:
 
 ---
 
+## 🔗 Live Demo
+
+Check out the live version here: [👉 Play Now](https://guess-my-number-mvc-ts.netlify.app)
+
+---
+
 ## 📄 License
 
 MIT License — Free to use and modify for educational or personal use.
